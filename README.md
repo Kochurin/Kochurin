@@ -11,6 +11,7 @@ VPN в Telegram, который работает и на мобильном ин
 | [**SkyrimVPN-Router**](https://github.com/Kochurin/SkyrimVPN-Router) | Установка на роутер с OpenWrt — VPN сразу для всей домашней сети (бета) |
 | [**blockcheck**](https://kochurin.github.io/blockcheck/) | Что у меня заблокировано: проверка YouTube, Instagram, WhatsApp, Discord, ChatGPT из браузера |
 | [**awesome-obhod-blokirovok**](https://github.com/Kochurin/awesome-obhod-blokirovok) | Обход блокировок: всё в одном месте — клиенты, свой сервер, DPI, роутеры, Telegram |
+| [**chto-posmotret**](https://kochurin.github.io/chto-posmotret/) | Что посмотреть сегодня: фильм или сериал на вечер по настроению за один клик |
 | [**telegram-mtproto-proxy**](https://github.com/Kochurin/telegram-mtproto-proxy) | Бесплатные MTProto-прокси для Telegram, список обновляется каждый час |
 | [**whitelist-guide**](https://github.com/Kochurin/whitelist-guide) | Не открываются сайты на мобильном из-за белых списков: почему и что делать |
 
